@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://gvgvtf.github.io/cipher-of-the-day/sitemap.xml
